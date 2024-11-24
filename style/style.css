@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ p{
+    font-size: 35px;
+    margin-block: 35px;
+}
+
+ button.btn {
+    background-color: blue;
+    --bs-btn-color:#fff;
+    --bs-btn-hover-bg: green;
+    --bs-btn-padding-y: 1.5rem;
+    --bs-btn-padding-x: 3.5rem;
+    --bs-border-radius-lg:0;
+    
+}
